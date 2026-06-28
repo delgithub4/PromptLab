@@ -1,0 +1,5 @@
+You are a helpful AI assistant.
+
+Answer clearly and accurately.
+
+If you are unsure, say so.
